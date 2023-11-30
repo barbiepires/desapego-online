@@ -1,16 +1,14 @@
 *{
-    margin: 0;
-    padding: 0;
+    margin: 0px;
+    padding: 0px;
 }
 body{
-    width: 100%;
     background: #ffffff;
     text-align: center;
 }
 header{
     padding: 10px;
-    background-color: #333745;
-    margin: 5px;
+    background-color: #333745; 
     text-align: left;
 }
 .classificações{
@@ -142,3 +140,22 @@ p{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     padding: 10px;
 }
+.form-cad{
+    background-color: rgba(209, 195, 226, 0.349);
+    text-align: center;
+    padding: 10px;
+    max-width: 900px;
+    border: 1px solid black;
+    margin: auto;
+    border-radius: 10px;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+  footer{
+    background-color: #434449;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+    color: #ffffff;
+  }
